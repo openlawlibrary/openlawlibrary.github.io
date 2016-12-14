@@ -79,6 +79,26 @@
   font-size: 150%;
 }
 
+.font-size-160p {
+  font-size: 160%;
+}
+
+.font-size-170p {
+  font-size: 170%;
+}
+
+.font-size-180p {
+  font-size: 180%;
+}
+
+.font-size-190p {
+  font-size: 190%;
+}
+
+.font-size-200p {
+  font-size: 200%;
+}
+
 .letter-spacing-1px{
   letter-spacing: 1px;
 }
@@ -154,7 +174,40 @@
   margin-top:20px;
 }
 
+.platform-product-row {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
 
+.platform-product-header {
+  text-align: center;
+  letter-spacing: 0.5px;
+  font-size: 160%;
+}
+
+.platform-product-image {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.platform-product-description {
+  padding-left: 10px;
+  padding-right: 10px;
+  letter-spacing: 0.5px;
+  font-size: 105%;
+  padding-bottom: 20px;
+}
+
+.product-head-blurb {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ecf0f1;
+}
+
+.product-value-heading {
+  font-weight:bold;
+}
 
 /*--common styles--*/
 body {
@@ -1600,7 +1653,10 @@ animation-duration: .4s;
 }
 
 .blog-item img {
+  /*vqc remove*/
+  /*
 	width: 100%;
+  */
 }
 
 .blog-carousel .owl-nav {
@@ -3466,7 +3522,10 @@ blockquote {
 
 	/*blog grid page*/
 	.sidebar {
-		margin-top: 30px;
+    /*vqc not sure why this padding is needed
+    *remove for now
+    */
+		/*margin-top: 30px;*/
 	}
 
 	/*blog inner page*/
