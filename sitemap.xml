@@ -52,6 +52,11 @@
   </url>
   
   <url>
+    <loc>http://www.openlawlib.org/vision/the-3-pillars/</loc>
+    <lastmod>2016-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.openlawlib.org/careers/</loc>
     <lastmod>2016-04-06T00:00:00+00:00</lastmod>
   </url>
@@ -62,17 +67,7 @@
   </url>
   
   <url>
-    <loc>http://www.openlawlib.org/customers/customer-success/</loc>
-    <lastmod>2016-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.openlawlib.org/our-team/</loc>
-    <lastmod>2016-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.openlawlib.org/vision/government-technology/</loc>
     <lastmod>2016-04-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -82,12 +77,17 @@
   </url>
   
   <url>
-    <loc>http://www.openlawlib.org/vision/the-3-pillars/</loc>
+    <loc>http://www.openlawlib.org/case-studies/washington-dc/</loc>
     <lastmod>2016-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.openlawlib.org/case-studies/washington-dc/</loc>
+    <loc>http://www.openlawlib.org/vision/government-technology/</loc>
+    <lastmod>2016-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.openlawlib.org/customers/customer-success/</loc>
     <lastmod>2016-04-06T00:00:00+00:00</lastmod>
   </url>
   
