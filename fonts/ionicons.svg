@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2017-2-8: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170104 at Wed Feb  8 16:10:15 2017
+ By Vincent Chuang
+Copyright (c) 2017, Vincent Chuang
+</metadata>
+<defs>
+<font id="Ionicons" horiz-adv-x="192" >
+  <font-face 
+    font-family="Ionicons"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 -32 472 416"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+F233-F3D8"
+  />
+    <missing-glyph />
+    <glyph glyph-name="ion-ios-arrow-down" unicode="&#xf3d0;" horiz-adv-x="320" 
+d="M301 288l19 -21l-160 -171l-160 171l19 21l141 -150z" />
+    <glyph glyph-name="ion-ios-arrow-left" unicode="&#xf3d2;" 
+d="M192 333l-150 -141l150 -141l-21 -19l-171 160l171 160z" />
+    <glyph glyph-name="ion-ios-arrow-right" unicode="&#xf3d3;" 
+d="M0 333l21 19l171 -160l-171 -160l-21 19l150 141z" />
+    <glyph glyph-name="ion-ios-arrow-up" unicode="&#xf3d8;" horiz-adv-x="320" 
+d="M301 96l-141 150l-141 -150l-19 21l160 171l160 -171z" />
+    <glyph glyph-name="ion-social-github" unicode="&#xf233;" horiz-adv-x="448" 
+d="M224 416c124 0 224 -103 224 -230c0 -101 -64 -188 -153 -218h-4c-8 0 -12 7 -12 12c0 8 1 31 1 62c0 21 -8 36 -16 43c50 6 103 25 103 113c0 25 -9 46 -23 62c2 6 10 29 -2 61h-5c-8 0 -27 -3 -57 -24c-18 5 -37 8 -56 8s-38 -3 -56 -8c-30 21 -49 24 -57 24h-5
+c-12 -32 -4 -55 -2 -61c-14 -16 -23 -37 -23 -62c0 -88 52 -107 102 -113c-6 -6 -12 -16 -14 -31c-6 -3 -16 -6 -26 -6c-13 0 -28 5 -39 25c0 0 -13 22 -35 24v0c-2 0 -21 0 -1 -14c0 0 15 -8 25 -34c0 0 10 -33 53 -33c7 0 14 0 22 2v-39c0 -5 -3 -11 -11 -11h-4
+c-89 30 -153 116 -153 218c0 127 100 230 224 230z" />
+    <glyph glyph-name="ion-social-twitter" unicode="&#xf243;" horiz-adv-x="472" 
+d="M472 338c-13 -20 -29 -36 -48 -50v-12c0 -128 -98 -276 -276 -276c-55 0 -105 16 -148 44c8 -1 15 -2 23 -2c45 0 87 16 120 42c-42 1 -78 29 -90 67c6 -1 12 -2 18 -2c9 0 18 2 26 4c-44 9 -78 48 -78 95v1c13 -7 28 -12 44 -12c-26 17 -43 47 -43 81c0 18 5 34 13 48
+c48 -59 119 -97 199 -101c-2 7 -2 14 -2 22c0 54 43 97 97 97c28 0 52 -12 70 -31c22 4 43 13 62 24c-7 -23 -23 -42 -43 -54c20 2 39 7 56 15z" />
+  </font>
+</defs></svg>
