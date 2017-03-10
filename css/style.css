@@ -1384,7 +1384,7 @@ animation-duration: .4s;
 	background-color: rgba(0,0,0,.5);
   */
   /*background-color: rgba(44, 62, 80, 0.6);*/
-  background-color: rgba(41, 128, 185, 1);
+  /*background-color: rgba(41, 128, 185, 1);*/
 	transition: .4s;
 	z-index: 0;
 }
