@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://www.openlawlib.org/</loc>
-    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://www.openlawlib.org/blog/uelma-whitepaper/</loc>
@@ -132,27 +128,7 @@
   </url>
   
   <url>
-    <loc>http://www.openlawlib.org/platform/open-law-codify/</loc>
-    <lastmod>2016-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.openlawlib.org/platform/open-law-draft/</loc>
-    <lastmod>2016-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.openlawlib.org/platform/</loc>
-    <lastmod>2016-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.openlawlib.org/platform/open-law-publish/</loc>
-    <lastmod>2016-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.openlawlib.org/platform/feature-highlights/</loc>
     <lastmod>2016-11-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -169,6 +145,88 @@
   <url>
     <loc>http://www.openlawlib.org/about-us/</loc>
     <lastmod>2016-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.openlawlib.org/blog/</loc>
+    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.openlawlib.org/case-studies/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.openlawlib.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.openlawlib.org/customers/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.openlawlib.org/categories/development/</loc>
+    <lastmod>2017-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.openlawlib.org/categories/in-the-news/</loc>
+    <lastmod>2017-04-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.openlawlib.org/</loc>
+    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.openlawlib.org/categories/ordiance/</loc>
+    <lastmod>2016-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.openlawlib.org/resources/</loc>
+    <lastmod>2016-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.openlawlib.org/categories/resources/</loc>
+    <lastmod>2016-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.openlawlib.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.openlawlib.org/categories/uncategorized/</loc>
+    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.openlawlib.org/categories/vim/</loc>
+    <lastmod>2017-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.openlawlib.org/vision/</loc>
+    <lastmod>2016-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
